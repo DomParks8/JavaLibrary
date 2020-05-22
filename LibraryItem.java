@@ -8,7 +8,7 @@ public class LibraryItem {
 
     // constructor
     public LibraryItem(int publishYear, String title, String author, String genre, String ageGroup, boolean isAvailable,
-            boolean isFactual2) {
+            boolean isFactual) {
         this.publishYear = publishYear;
         this.title = title;
         this.author = author;
